@@ -62,3 +62,7 @@ Create a mini e-commerce app using React Native with the following core features
 ```bash
 git clone https://github.com/nishnak555/MiniEcommerce.git
 cd mini-ecommerce-app
+
+## Create build command 
+cd android
+./gradlew assembleRelease
